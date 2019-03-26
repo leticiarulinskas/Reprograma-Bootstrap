@@ -1,0 +1,75 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+ }
+ 
+ /* INDEX */
+.navbar{
+    background-color: white;
+}
+ 
+.navbar-brand{
+    font-weight: 500;
+}
+
+.navbar-nav{
+    text-transform: uppercase;
+    margin-left: 410px;
+}
+
+.nav-item, .dropdown{
+    padding-right: 15px;
+}
+
+.title-section{
+    color: black;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 2rem;
+    text-align: center;
+}
+
+.card{
+    border: none;
+}
+
+.form-contact {
+    margin: 0 auto;
+}
+
+/* CURRÍCULO */
+.mt-6{    
+  margin-top: 6rem !important;
+}
+
+.title{
+    font-weight: 800;
+}
+
+.periodo{
+    font-weight: 500;
+}
+
+.especificacao{
+    font-weight: 700;
+    font-size: 1.25rem;
+}
+
+.local{
+    font-weight: 600;    
+    font-size: 0.90rem;
+}
+
+.descricao{
+    font-weight: 300;
+}
+
+.skill-description{
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.progress-bar{
+    font-weight: 100;    
+    font-size: 0.80rem; 
+}
